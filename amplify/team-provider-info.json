@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mealplanner-staging-233424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::325779500843:role/amplify-mealplanner-staging-233424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::325779500843:role/amplify-mealplanner-staging-233424-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-mealplanner-staging-233424-deployment",
+      "UnauthRoleName": "amplify-mealplanner-staging-233424-unauthRole",
+      "StackName": "amplify-mealplanner-staging-233424",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:325779500843:stack/amplify-mealplanner-staging-233424/ac570b90-765b-11ec-bd40-067aabb8e36a",
+      "AmplifyAppId": "dtzlvp77qy19y"
+    }
+  }
+}
