@@ -90,7 +90,7 @@ export default function Meal(props) {
             shrink="0"
             position="relative"
             padding="0px 0px 0px 0px"
-            children="Beef Bowl"
+            children={meal?.name}
             {...getOverrideProps(overrides, "Flex.Flex[0].Flex[0].Text[0]")}
           ></Text>
         </Flex>
